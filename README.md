@@ -2,7 +2,7 @@
 
 ## Call an Amazon SageMaker model endpoint using Amazon API Gateway and AWS Lambda
 
-**By Sachin Pharande, Archana Sawant, Swapnil Kapile, Snehal Chaudhary, Rohit Patange** | on 17 March 2023 | in Amazon SageMaker, Machin Learning | Permalink |  Comments |  Share
+**By MLO Sachin Pharande, MLO Archana Sawant, MLO Swapnil Kapile, CO Snehal Chaudhary, CO Rohit Patange** | on 17 March 2023 | in Amazon SageMaker, MachinE Learning | Permalink |  Comments |  Share
 
 At AWS Machine Learning (ML) workshops, customers often ask, “After I deploy an endpoint, where do I go from there?” You can deploy an **Amazon SageMaker** trained and validated ML model as an online endpoint in production. Alternatively, you can choose which SageMaker functionality to use. For example, you can choose just to train a model or to host one. Whether you choose one SageMaker function.
 
